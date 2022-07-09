@@ -1,0 +1,21 @@
+h1 {
+    color: brown;
+}
+#p10 {
+    color: yellow;
+}
+
+.n10 {
+
+    background-color: red;
+   
+    color: white;
+}
+
+#i10{
+    color: purple;
+    background-color:green;
+    width: 35px;
+    height: 25px;
+    
+}

@@ -1,0 +1,25 @@
+h1{
+    font-style: italic;
+    color: pink;
+}
+.ultra{
+    color: red;;
+}
+
+#ONE {
+color: red;
+background-color: yellow;
+height: 25PX;
+width: 40px;
+}
+
+.high {
+    color: green;
+
+}
+
+p[name="abc"]{
+    color: orange;
+    cursor: pointer;
+}
+
